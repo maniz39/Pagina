@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" fecha="2014-01-15T09:56:01" sello="JjHJooiyH9ZOPogijDF8pmI8703ns8KlMpwMPGPAAKAFm+2MbtLwsa6NiyP8A73KqkHKotuKj/6cR4To4XiwKvCTvC9cEURXoA/60MarskYSzdV7bG1LTjiYLnpLmB14P13AnLJQTkIVOGa+fzGMCQNvwkcMesioLZcjQ8ggo34=" formaDePago="UNA EXHIBICION" noCertificado="00001000000202578031" certificado="MIIEwDCCA6igAwIBAgIUMDAwMDEwMDAwMDAyMDI1NzgwMzEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIxMjAwMTIyNFoXDTE2MTIxMjAwMTIyNFowggEAMTYwNAYDVQQDEy1JTlRFUklORFVTVFJJQVMgT1BFUkFET1JBIERFIEhPVEVMRVMgU0EgREUgQ1YxNjA0BgNVBCkTLUlOVEVSSU5EVVNUUklBUyBPUEVSQURPUkEgREUgSE9URUxFUyBTQSBERSBDVjE2MDQGA1UEChMtSU5URVJJTkRVU1RSSUFTIE9QRVJBRE9SQSBERSBIT1RFTEVTIFNBIERFIENWMSUwIwYDVQQtExxJT0g4MzEwMDc1NDIgLyBTRVNKNTIwNzE2NUM3MR4wHAYDVQQFExUgLyBTRVNKNTIwNzE2SERGVk5SMDExDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAw8zodIHE5/GiLArVgV2gnCl6k3q83bWXVl77XDdf0JzzHiYB5804YpPqCCFW/yJ4qOXEAsZBw35tRbUH20jPvh3AugRK2/UL1CDbN91nmfg14BhMe2W+90nzslEPL77fjDTWxrxkHeSzR/7sEIf3RzhNl9hX/Aym+iP8EonXT6sCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAI77l94G0FFJMczHfjrj6jNSKWjaX0ltModR4gdsXtSZ4xbC0YWIftLlzDuf1NvC8tNOOwbbZGgtsNF8cEGm12B41tCNRmRJAgqm6xlckU2yUDEk19faWiwNbIz5AxNWYT9/DjgsvxY+l/dQYFDVtGeRMd/Adoq43fYnQtXu3NyEtHMJbfyESGiZgaD/y85BqLP+RUeSlqTut1rjSSZL5OW532JL5kZqDyPjSEO+tF2v2Py9QbGqsOfaYHPQzAmdmG6dGGjtItpbNu1wd9hsIxn1OQEJMhIAjDkj34UcbxIaUJirmuKX0tjWDiMNR36cKbb/86YlT9Pu9PkWojh5voo=" condicionesDePago="CREDITO" subTotal="724.51" total="862.17" tipoDeComprobante="ingreso" metodoDePago="NO IDENTIFICADO" LugarExpedicion="TLAQUEPAQUE, JALISCO" FechaFolioFiscalOrig="0001-01-01T00:00:00">
+  <cfdi:Emisor rfc="IOH831007542" nombre="INTER. OP. DE HOT. SA DE CV">
+    <cfdi:DomicilioFiscal calle="CARRETERA A CHAPALA KM. 6.5" noExterior="4275" colonia="COL. EL TAPATIO" localidad="TLAQUEPAQUE" municipio="TLAQUEPAQUE, JAL." estado="JALISCO" pais="MEXICO" codigoPostal="45588" />
+    <cfdi:ExpedidoEn calle="CARRETERA A CHAPALA KM. 6.5" noExterior="4275" colonia="COL. EL TAPATIO" localidad="TLAQUEPAQUE" municipio="TLAQUEPAQUE, JAL." estado="JALISCO" pais="MEXICO" codigoPostal="45588" />
+    <cfdi:RegimenFiscal Regimen="GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="APR0007277N6" nombre="ALTA PROMOCION SA DE CV">
+    <cfdi:Domicilio calle="MORELOS 167-2B" colonia="CENTRO" localidad="ECATEPEC DE MORELOS" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="55000" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="NO APLICA" descripcion="SALVADOR LOPEZ HOSPEDAJE DICIEMBRE 9 DE 2013." valorUnitario="724.51" importe="724.51" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="115.92">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="115.92" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="038C0D6E-0AC5-4CB4-9489-014B67EC6858" FechaTimbrado="2014-01-15T10:01:07" selloCFD="JjHJooiyH9ZOPogijDF8pmI8703ns8KlMpwMPGPAAKAFm+2MbtLwsa6NiyP8A73KqkHKotuKj/6cR4To4XiwKvCTvC9cEURXoA/60MarskYSzdV7bG1LTjiYLnpLmB14P13AnLJQTkIVOGa+fzGMCQNvwkcMesioLZcjQ8ggo34=" noCertificadoSAT="00001000000202639521" selloSAT="c9dfRVppML4LYYyevMGsrj15C6E5dj4SZx2vFuWHNLAwWfLMWmUelqlVlysIU/Ni3I6uG45HhuCuPowy5RTFhuiuZw4OQPM3jObv+jK+uV6OfQb8xVi/oDs5PvEV6yNLsMoa9dIyzTfZ1bd+kYyIvT4XBLW9gKU/FGABu+ipqo0=" />
+    <implocal:ImpuestosLocales xmlns:implocal="http://www.sat.gob.mx/implocal" xsi:schemaLocation="http://www.sat.gob.mx/implocal http://www.sat.gob.mx/sitio_internet/cfd/implocal/implocal.xsd" version="1.0" TotaldeRetenciones="0.00" TotaldeTraslados="21.74">
+      <implocal:TrasladosLocales ImpLocTrasladado="Impuesto sobre hospedaje" TasadeTraslado="3.00" Importe="21.74" />
+    </implocal:ImpuestosLocales>
+  </cfdi:Complemento>
+</cfdi:Comprobante>
